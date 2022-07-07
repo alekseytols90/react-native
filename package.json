@@ -42,7 +42,7 @@
     "isomorphic-style-loader": "^1.1.0",
     "jsonwebtoken": "^7.2.1",
     "lyef-switch-button": "^1.3.0",
-    "moment": "^2.18.1",
+    "moment": "^2.29.4",
     "money": "^0.2.0",
     "multer": "^1.2.1",
     "mysql": "^2.13.0",
